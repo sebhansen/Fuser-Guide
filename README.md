@@ -32,7 +32,7 @@ Welcome to the setup guide for the Dichen (Baan8K) 4th generation HDMI Fuser. Th
 ### Step 1: Get your monitor EDID and inject to fuser
 
 1. Connect your main monitor using an HDMI 2.0 or HDMI 2.1 cable to your PC. (The values are different compared to if you use a DP cable)
-2. Switch your monitor input to the HDMI signal from your PC.
+2. Switch your monitor input to the HDMI signal from your PC and remember to change your refresh rate.
 3. Download and run 'MonitorAssetManager Setup'.
 4. Press launch once the install is finished.
 5. Select the first display (displayed as 'real time'). (Check the name and make to make sure, if you have two monitors)
