@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to the setup guide for the 4th generation HDMI Fuser. This repository contains instructions for setting up and using the HDMI Fuser device, designed to facilitate DMA cheating by fusing HDMI signals from multiple sources. This repository also contains the software you need
+Welcome to the setup guide for the 4th generation HDMI Fuser. This repository contains instructions for setting up and using the HDMI Fuser device, designed to facilitate DMA cheating by fusing HDMI signals from multiple sources. This repository also contains the software you need.
+Specifically made for a Dichen Generation 4, HDMI version.
 
 ## Ports
 
