@@ -33,9 +33,10 @@ Welcome to the setup guide for the 4th generation HDMI Fuser. This repository co
 
 1. Connect your main monitor using an HDMI 2.0 or HDMI 2.1 cable to your PC. (The values are different compared to if you use a DP cable)
 2. Switch your monitor input to the HDMI signal from your PC.
-3. Download and run 'MonitorAssetManager'.
-4. Select the first display (displayed as 'real time'). (Check the name and make to make sure, if you have two monitors)
-5. Go to File on the top left and save as a .bin file.
+3. Download and run 'MonitorAssetManager Setup'.
+4. Press launch once the install is finished.
+5. Select the first display (displayed as 'real time'). (Check the name and make to make sure, if you have two monitors)
+6. Go to File on the top left and save as a .bin file.
 
 ### Step 2: Inject the .bin File to Your Fuser
 
