@@ -1,8 +1,11 @@
 # 4th Gen HDMI Fuser Setup Guide
 
+This guide has been specifically made for the Dichen / Baan8k gen4 fusers!
+
 ## Introduction
 
 Welcome to the setup guide for the Dichen (Baan8K) 4th generation HDMI Fuser. This repository contains instructions for setting up and using the HDMI Fuser device, designed to facilitate DMA cheating by fusing HDMI signals from multiple sources. This repository also contains the software you need.
+
 [I WILL BE ADDING A VIDEO GUIDE "SOON"]
 
 ## Ports
